@@ -1,4 +1,8 @@
-# Hermex
+<div align="center">
+
+<img src="header.png" alt="An in-process SMTP + IMAP server" />
+
+</div>
 
 **An in-process SMTP + IMAP server with an executive-grade web dashboard for .NET applications.**
 
