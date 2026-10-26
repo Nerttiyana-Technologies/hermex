@@ -22,7 +22,7 @@ Point your application's mail client at `localhost:2525` and open `/hermex`.
 
 ## Why Hermex
 
-Most development SMTP servers (smtp4dev, Mailhog, Papercut) run as a *separate* process or
+Most development SMTP servers run as a *separate* process or
 container. Hermex runs **inside your application** as a set of background services:
 
 - **Zero external dependencies** — it ships as a single NuGet package.
